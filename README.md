@@ -25,7 +25,7 @@ Welcome to the official TechCon 2024 conference website project. This project sh
 - Includes session times, titles, and speaker names.
 
 ### 4. `register.html` - Registration Page
-- Includes a user-friendly form collecting name, email, password, and terms agreement.
+- Includes a user-friendly form collecting name, email, password, and terms of agreement.
 - Uses proper `<label>` and `<input>` associations for accessibility.
 
 ### 5. `contact.html` - Contact Page
@@ -42,7 +42,7 @@ Welcome to the official TechCon 2024 conference website project. This project sh
 ## Contact
 
 For inquiries or contributions, contact:  
-📧 `email@example.com` (placeholder as per instruction)
+📧 `Oluwadamilolaayeni321@gmail.com` 
 
 ---
 
